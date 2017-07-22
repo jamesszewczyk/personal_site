@@ -1,0 +1,11 @@
+name: "james-website"
+output_dir: "."
+navbar:
+  title: "James Szewczyk's Academic Website"
+  left:
+    - text: "Home"
+      href: index.html
+
+      
+      
+      
