@@ -2,11 +2,13 @@
 title: "James Szewczyk"
 ---
 
+![](prof photo.jpg)
+
 PhD Student    
 Department of Political Science    
 Emory University     
 
-Curriculum Vitae    
+[Curriculum Vitae]()    
 
 ### Contact Information: 
 
@@ -17,8 +19,6 @@ Department of Political Science
 Emory University  
 1555 Dickey Drive   
 Atlanta, Georgia 30322    
-
-
 
 ### Research Interests:
 

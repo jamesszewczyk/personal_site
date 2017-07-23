@@ -1,11 +1,13 @@
 name: "james-website"
 output_dir: "."
 navbar:
-  title: "James Szewczyk's Academic Website"
+  title:
   left:
     - text: "Home"
       href: index.html
-
+output:
+  html_document:
+    css: style.css
       
       
       
