@@ -8,7 +8,7 @@ navbar:
 output:
   html_document:
     includes:
-       in_header: GA_Script.html
+       in_header: google_script.html
     css: style.css
       
       
