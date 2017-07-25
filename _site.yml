@@ -2,11 +2,13 @@ name: "james-website"
 output_dir: "."
 navbar:
   title:
-  left:
-    - text: "Home"
+  right:
+    - text: "James Szewczyk's Academic Website"
       href: index.html
 output:
   html_document:
+    includes:
+       in_header: GA_Script.html
     css: style.css
       
       

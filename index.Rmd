@@ -39,4 +39,18 @@ Income inequality is on the rise in America, yet we know little about how econom
 The Voting Rights Acts protected the franchise for minority voters in the United States and had profound implications for representation and policy outcomes across all levels of government. However, in June of 2013 the Supreme Court ruled in the *Shelby County v. Holder* case that the formula for the preclearance provision of the law is unconstitutional. This allowed jurisdictions that were previously required to get approval from the federal government before changing election laws the ability to do so without supervision. In this paper, I show that the removal of the preclearance requirement resulted in these jurisdictions implementing more restrictive voting laws. Then, I use former preclearance status as an instrument for restrictive voting laws and find that in districts where the *Shelby County v. Holder* decision lead to more restrictive voting laws that these voting restrictions caused Republican members of Congress to cosponsor fewer bills related to civil rights issues. 
 
 
+<!--html_preserve-->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-103004130-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!--/html_preserve-->
 
