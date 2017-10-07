@@ -8,7 +8,7 @@ PhD Student
 Department of Political Science    
 Emory University     
 
-[Curriculum Vitae](http://jamesszewczyk.github.io/personal_site/CV_2017_09_12.pdf)
+[Curriculum Vitae](http://jamesszewczyk.github.io/personal_site/CV_2017_10_06.pdf)
 
 ### Contact Information: 
 
@@ -26,13 +26,13 @@ American politics, elections, public policy, representation
 
 ### Working Papers: 
 
-[**"How Electoral Institutions Affect Political Accountability: Evidence from Vote-by-Mail in Washington"**](http://jamesszewczyk.github.io/personal_site/VBM_and_Electoral_Accountability_V4.pdf) (Under Review)
+[**"How Electoral Institutions Affect Political Accountability: Evidence from All-Mail Elections"**](http://jamesszewczyk.github.io/personal_site/VBM_V5.pdf) (Under Review)
 
-In this paper, I exploit the staggered implementation of vote-by-mail in Washington to estimate the effects of all-mail elections on the behavior of voters, elected officials, and policy outcomes in the state's municipalities. Using a difference-in-differences design, I find that vote-by-mail causes a decrease in ballot roll-off on statewide ballot measures in presidential election years, which is consistent with my argument that voters gather more information about politics when voting in all-mail elections. Further, switching from traditional polling place elections to vote-by-mail results in a decrease in negative findings on accountability audit reports and a decrease in taxing and spending in Washington's municipalities. Using data from the Catalist voter file I show that these results cannot be explained by changes in the composition of the electorate caused by vote-by-mail. 
+A central question in the study of democratic governance concerns the conditions under which voters can make informed choices at the ballot box. I exploit the staggered implementation of an electoral reform in a U.S. state to study the effects of electoral institutions on voter information and political accountability. I find that all-mail elections cause a decrease in ballot roll-off on statewide ballot measures in presidential election years, which is consistent with my argument that voters gather more information about politics when voting by mail. Further, switching from traditional polling place elections to vote-by-mail results in a decrease in negative findings on accountability audit reports and a decrease in taxing and spending in municipal governments. Using data from the Catalist voter file I show that these results cannot be explained by changes in the composition of the electorate caused by vote-by-mail.
 
 **"Voting Restrictions and Representation in Congress"**
 
-State and local governments have implemented a number of election administration policies that restrict access to the ballot. What are the effects of these election laws on who votes and, consequently, the behavior of elected officials? In this paper, I answer this question by estimating the effects of restrictive voting laws on the composition of the electorate and congressional behavior using two complementary identification strategies. First, I use the *Shelby County v. Holder* Supreme Court decision, which struck down the preclearance formula of the Voting Rights Act and gave many local jurisdictions the ability to change election administration policy without approval from the federal government, as an instrument for the implementation of voting restrictions. Second, I collect a panel dataset of election laws in the American states from 2000 - 2016 and exploit cross-sectional and overtime variation in election policy to estimate the effects of restrictive voting laws. This paper has implications for our understanding of electoral politics and representation in Congress.  
+State and local governments have implemented a number of electoral reforms that restrict access to the ballot. What are the effects of these election laws on who votes and, consequently, the behavior of elected officials? In this paper, I use data from the Catalist voter file and various measures of legislative behavior to estimate the effects of restrictive voting laws on the composition of the electorate in congressional districts and representation in Congress. My analysis employs two complementary identification strategies. First, I use the *Shelby County v. Holder* Supreme Court decision, which struck down the preclearance formula of the Voting Rights Act and gave many local jurisdictions the ability to change election administration policies without approval from the federal government, as an instrument for the implementation of voting restrictions. Second, I collect a panel dataset of electoral reforms in the American states from 2000 - 2016 and exploit cross-sectional and overtime variation in election laws to estimate the effects of restrictive voting laws. This paper has implications for our understanding of electoral politics and legislative behavior.
 
 **"The Effects of Community Income Inequality on Political Participation" (with Melody Crowder-Meyer)**
 
