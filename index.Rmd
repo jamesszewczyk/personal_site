@@ -8,7 +8,7 @@ PhD Student
 Department of Political Science    
 Emory University     
 
-[Curriculum Vitae](http://jamesszewczyk.github.io/personal_site/CV_2017_10_06.pdf)
+[Curriculum Vitae](http://jamesszewczyk.github.io/personal_site/CV_2017_12_13.pdf)
 
 ### Contact Information: 
 
@@ -32,7 +32,7 @@ A central question in the study of democratic governance concerns the conditions
 
 **"Voting Restrictions and Representation in Congress"**
 
-State and local governments have implemented a number of electoral reforms that restrict access to the ballot. What are the effects of these election laws on who votes and, consequently, the behavior of elected officials? In this paper, I use data from the Catalist voter file and various measures of legislative behavior to estimate the effects of restrictive voting laws on the composition of the electorate in congressional districts and representation in Congress. My analysis employs two complementary identification strategies. First, I use the *Shelby County v. Holder* Supreme Court decision, which struck down the preclearance formula of the Voting Rights Act and gave many local jurisdictions the ability to change election administration policies without approval from the federal government, as an instrument for the implementation of voting restrictions. Second, I collect a panel dataset of electoral reforms in the American states from 2000 - 2016 and exploit cross-sectional and overtime variation in election laws to estimate the effects of restrictive voting laws. This paper has implications for our understanding of electoral politics and legislative behavior.
+State and local governments have implemented a number of election administration policies that restrict access to the ballot. What are the effects of these electoral reforms on who votes and the behavior of elected officials? In this paper, I trace out the effects of restrictive voting laws on voter behavior in congressional elections and, consequently, the behavior of members of the House of Representative using two complimentary identification strategies. First, I use the *Shelby County v. Holder* Supreme Court decision, which struck down the preclearance formula of the Voting Rights Act, as an instrument for the implementation of voting restrictions. Second, I collect a panel dataset of election laws in the American states and exploit cross-sectional and over time variation in election administration to estimate the within-congressional district and within-legislator effects of restrictive voting laws. I find that voting restrictions cause the median voter in congressional districts to shift to the right on the ideological spectrum. As a result, the implementation of voting restrictions causes the election of more conservative legislators that are also less likely to cosponsor legislation related to civil rights issues. 
 
 **"The Effects of Community Income Inequality on Political Participation" (with Melody Crowder-Meyer)**
 
