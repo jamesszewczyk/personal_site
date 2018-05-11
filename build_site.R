@@ -1,4 +1,5 @@
-setwd("/Users/jimmyszewczyk/personal_site")
+setwd("/Users/jamesszewczyk/personal_site")
+#install.packages("rmarkdown", type = "source")
 
 # render site
 rmarkdown::render_site()
