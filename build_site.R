@@ -5,7 +5,7 @@ setwd("/Users/jamesszewczyk/personal_site")
 rmarkdown::render_site()
 
 
-## Use this code to push to github in shell:
+## Use this code to push to github in shell: -- > click "Tools" then click "Shell" 
 #Let's add all the files to our git staging area
 git add -A #the -A flag tells it git you want everything
 
