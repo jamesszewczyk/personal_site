@@ -1,10 +1,6 @@
 name: "james-website"
 output_dir: "."
 navbar:
-  title:
-  right:
-    - text: "James Szewczyk's Academic Website"
-      href: index.html
 output:
   html_document:
     includes:
