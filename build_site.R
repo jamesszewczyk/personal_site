@@ -6,6 +6,9 @@ rmarkdown::render_site()
 
 
 ## Use this code to push to github in shell: -- > click "Tools" then click "Shell" 
+# set directory
+cd ~/personal_site
+
 #Let's add all the files to our git staging area
 git add -A #the -A flag tells it git you want everything
 
