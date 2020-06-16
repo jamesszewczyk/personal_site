@@ -4,7 +4,6 @@ setwd("/Users/jamesszewczyk/personal_site")
 # render site
 rmarkdown::render_site()
 
-
 ## Use this code to push to github in shell: -- > click "Tools" then click "Shell" 
 # set directory
 cd ~/personal_site
